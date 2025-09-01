@@ -1,0 +1,89 @@
+commit 14e70f7553ee3ed57afa0fa50b759fd61b312a6c
+Merge: 39d134f 2c54630
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 16:13:48 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 39d134f08603d474331c0e07eaaf6085938f7fc2
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 16:09:04 2025 -0700
+
+    Update index.html
+    
+    + add favorite food
+
+commit 2c5463038de8ec62b4228f9efdf7d134b5fb5b3c
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 16:08:36 2025 -0700
+
+    Update index.html
+    
+    + added favorite movie
+
+commit ab2e0a7695a2a186353608e6b1326506cd87db29
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 16:07:12 2025 -0700
+
+    Update index.html
+    
+    + added favorite food
+
+commit 03d9eb71c605d9e70ec1864695c96f80208572a7
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 16:01:40 2025 -0700
+
+    Create README.md
+    
+    + describing repo
+
+commit a82f08a24dec959a0f331d4f9da5a0747e33f433
+Merge: 1d2bfc0 75d7821
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 02:44:03 2025 -0700
+
+    Merge pull request #1 from OurCervus/info-fill
+    
+    Update index.html
+
+commit 75d78218388f1f58a550df5067ed3a1843850881
+Author: Jesus Calvo <jcalvo7@calstatela.edu>
+Date:   Mon Sep 1 02:24:01 2025 -0700
+
+    Update index.html
+    
+    + Filled the blanks
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
